@@ -295,7 +295,8 @@ dupe_pos_2 = LinkedList()
 
 """
 
-2.2 Implement an algorithm to find the kth to last element of a singly linked list.
+2.2 Implement an algorithm to find the kth to last element of a singly linked 
+    list.
 
 """
 
@@ -409,7 +410,8 @@ linkedlist = LinkedList(n4)
 
 """
 
-2.3 Implement an algorithm to delete a node in the middle of a singly linked list, given only access to that node.
+2.3 Implement an algorithm to delete a node in the middle of a singly linked 
+    list, given only access to that node.
 
 """
 
@@ -451,7 +453,8 @@ n4 = Node(1,n3)
 
 """
 
-2.4 Write code to partition a linked list around a value x, such that all nodes less than x come before all nodes greater than or equal to x.
+2.4 Write code to partition a linked list around a value x, such that all nodes 
+    less than x come before all nodes greater than or equal to x.
 
 """
 
@@ -597,7 +600,10 @@ linkedList = LinkedList(n4)
 
 """
 
-2.5 You have two numbers represented by a linked list, where each node contains a single digit. The digits are stored in reverse order, such that the 1's digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.
+2.5 You have two numbers represented by a linked list, where each node contains 
+    a single digit. The digits are stored in reverse order, such that the 1's 
+    digit is at the head of the list. Write a function that adds the two 
+    numbers and returns the sum as a linked list.
 
     FOLLOW UP
 
@@ -1006,7 +1012,8 @@ linkedList = LinkedList(n4)
 
 """
 
-2.6 Given a circular linked list, implement an algorithm which returns the node at the beginning of the loop.
+2.6 Given a circular linked list, implement an algorithm which returns the 
+    node at the beginning of the loop.
 
     Modified version of: "Detect if a linked list has a loop."
 
